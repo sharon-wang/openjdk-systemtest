@@ -1,5 +1,5 @@
 <inventory> 
-    <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite000"/>
+    <!-- <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite000"/>
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite001"/>
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite002"/>
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite003"/>
@@ -23,9 +23,9 @@
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite021"/>
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite022"/>
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite023"/>
-    <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite024"/>
+    <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite024"/> -->
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite025"/>
-    <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite026"/>
+    <!-- <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite026"/>
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite027"/>
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite028"/>
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite029"/>
@@ -62,5 +62,5 @@
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite060"/>
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite061"/>
     <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite062"/>
-    <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite063"/>
+    <junit class="net.adoptopenjdk.test.bigdecimal.TestSuite063"/> -->
 </inventory>
